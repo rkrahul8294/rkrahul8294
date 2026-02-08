@@ -5,7 +5,8 @@
 
 <!-- 🔹 PROFILE PHOTO -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="180" style="border-radius:50%;" />
+  <img src="![protos](https://github.com/user-attachments/assets/43132e7c-7153-499b-96d8-246d97bad085)
+" width="180" style="border-radius:50%;" />
 </p>
 
 <!-- 🔹 ANIMATED TYPING TEXT -->
