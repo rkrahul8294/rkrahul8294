@@ -1,49 +1,92 @@
+<!-- 🔹 PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rahul%20Kumar&fontSize=60&animation=fadeIn" />
+</p>
+
+<!-- 🔹 ANIMATED TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+DSA+%7C+Problem+Solver;Building+Cool+Projects+Every+Day;Future+Software+Engineer+🚀" />
+</p>
+
 # Hi 👋, I'm Rahul Kumar  
 
 🚀 **Aspiring Software Developer | Java | DSA | CSE Student**  
-💡 *Learning • Building • Improving*
+💡 *Learning • Building • Improving • Problem Solving*  
 
 ---
 
-## 🌐 Connect with me  
+## 👨‍💻 About Me  
+🎯 Passionate about **Software Development, Data Structures & Algorithms, and Problem Solving**  
+🎓 Computer Science Student | Exploring Backend & AI  
+🔍 Currently improving **Java + DSA + Python**  
+
+---
+
+## 🌐 Connect With Me  
+
 <p align="left">
-<a href="https://www.linkedin.com/in/krrahul82">
-  <img src="https://img.shields.io/badge/LinkedIn-krrahul82-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://x.com/Rahul829426">
-  <img src="https://img.shields.io/badge/Twitter-@Rahul829426-1DA1F2?style=for-the-badge&logo=twitter"/>
+<a href="https://www.linkedin.com/in/krrahul82" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-krrahul82-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:rahulkumar24391233@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-rahulkumar24391233-red?style=for-the-badge&logo=gmail" />
 </a>
-<a href="https://github.com/rkrahul8294">
-  <img src="https://img.shields.io/badge/GitHub-rkrahul8294-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/rkrahu18294">
+  <img src="https://img.shields.io/badge/GitHub-rkrahu18294-black?style=for-the-badge&logo=github" />
 </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
+
 <p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Projects  
-🔹 **Shortest Path Visualizer**  
-🔹 **Airline Management System**  
-🔹 **Stock Market Prediction (LSTM)**  
+## 🚀 Projects (with Screenshots)
+
+### ✈️ Airline Management System  
+<img src="https://via.placeholder.com/800x400?text=Airline+Management+System+Screenshot" />  
+- Implemented using **C & Data Structures**  
+- Features: Flight booking, seat allocation, waitlist, file storage  
+
+### 📈 Stock Market Prediction (LSTM)  
+<img src="https://via.placeholder.com/800x400?text=Stock+Prediction+Project+Screenshot" />  
+- Built using **Python, TensorFlow & Machine Learning**  
+- Predicted future stock prices using time-series data  
+
+### 🧭 Shortest Path Visualizer  
+<img src="https://via.placeholder.com/800x400?text=Path+Visualizer+Screenshot" />  
+- Implemented **Dijkstra, BFS, and DFS**  
+- Interactive path visualization  
+
+> 👉 **Tip:** Aap apne project ke real screenshots leke in links ki jagah replace kar sakte ho.
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rkrahu18294&theme=radical&row=1&column=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rkrahul8294&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrahul8294&layout=compact&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rkrahu18294&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrahu18294&layout=compact&theme=radical" width="48%" />
 </p>
+
+---
+
+⭐ **Rahul Kumar | Future Software Engineer**
