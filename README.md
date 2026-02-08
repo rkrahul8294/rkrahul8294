@@ -5,8 +5,7 @@
 
 <!-- 🔹 PROFILE PHOTO -->
 <p align="center">
-  <img src="![protos](https://github.com/user-attachments/assets/43132e7c-7153-499b-96d8-246d97bad085)
-" width="180" style="border-radius:50%;" />
+  <img src="YOUR_IMAGE_URL_HERE" width="180" style="border-radius:50%;" />
 </p>
 
 <!-- 🔹 ANIMATED TYPING TEXT -->
@@ -22,7 +21,7 @@
 ---
 
 ## 👨‍💻 About Me
-🎯 Passionate about **Software Development, Data Structures & Algorithms**  
+🎯 Passionate about **Software Development & DSA**  
 🎓 Computer Science Student | Exploring Backend & AI  
 🔍 Currently improving **Java + DSA + Python**
 
@@ -55,32 +54,24 @@
 
 ---
 
-## 🚀 Projects
-### ✈️ Airline Management System
-- Implemented using **C & Data Structures**
-- Flight booking, seat allocation, waitlist, file storage
-
-### 📈 Stock Market Prediction (LSTM)
-- Built using **Python, TensorFlow**
-- Time-series based stock price prediction
-
-### 🧭 Shortest Path Visualizer
-- Implemented **Dijkstra, BFS, DFS**
-- Interactive path visualization
-
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rkrahu18294&theme=radical&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rkrahu18294&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrahu18294&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkrahu18294&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrahu18294&layout=compact&theme=radical" width="48%" />
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkrahu18294&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Watch my contributions turn into a snake!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rkrahu18294/rkrahu18294/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
