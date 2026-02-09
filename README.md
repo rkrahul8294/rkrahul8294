@@ -17,9 +17,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rkrahul8294&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
-</p>
+
+<img width="1326" height="226" alt="image" src="https://github.com/user-attachments/assets/c9d9b702-aae1-4305-8a84-9b4098ddb723" />
+
 
 ---
 
@@ -79,15 +79,31 @@
 </p>
 
 ---
+## 🏆 About Rank
+
+**Ranks:** `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`
+
+| Rank | Description |
+|------|-------------|
+| **SSS, SS, S** | You are at a hard to reach rank. You can brag. |
+| **AAA, AA, A** | You will reach this rank if you do your best. Let's aim here first. |
+| **B, C** | You are currently making good progress. Let's aim a bit higher. |
+| **UNKNOWN (?)** | You have not taken action yet. Let's act first. |
+| **SECRET** | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
+
+> 📌 **Note:** The **UNKNOWN** rank is denoted by `?`
 
 ## 📬 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/krrahul82">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:rahulkumar24391233@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://x.com/Rahul829426">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x" />
   </a>
 </p>
 
