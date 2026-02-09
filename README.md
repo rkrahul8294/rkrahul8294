@@ -62,18 +62,16 @@
 
 ---
 
-## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkrahu18294&theme=react-dark&hide_border=true" />
+  <img src="banner.png" width="100%" />
 </p>
 
----
+## 🔥 Contribution Graph
+<img src="contribution.png" width="100%" />
 
 ## 🐍 Watch my contributions turn into a snake!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rkrahu18294/rkrahu18294/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
+<img src="snake.svg" width="100%" />
 
 ⭐ **Rahul Kumar | Future Software Engineer**
+
+
