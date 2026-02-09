@@ -4,6 +4,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+DSA+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+with+Code+%F0%9F%9A%80" />
 </p>
 
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krrahul82" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rahulkumar24391233@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/rkrahul8294" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://x.com/Rahul829426" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 ---
 
 ## 🔥 Contribution Graph
@@ -92,20 +109,7 @@
 | **SECRET** | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
 
 > 📌 **Note:** The **UNKNOWN** rank is denoted by `?`
-
-## 📬 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krrahul82">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:rahulkumar24391233@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://x.com/Rahul829426">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x" />
-  </a>
-</p>
+>
 
 ---
 ⭐ **If you like my work, give a star to my repositories!**
