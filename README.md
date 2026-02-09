@@ -1,74 +1,8 @@
-<!-- 🔹 PROFILE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rahul%20Kumar&fontSize=60&animation=fadeIn" />
-</p>
-
-<!-- 🔹 PROFILE PHOTO -->
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="180" style="border-radius:50%;" />
-</p>
-
-<!-- 🔹 ANIMATED TYPING TEXT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+DSA+%7C+Problem+Solver;Building+Cool+Projects+Every+Day;Future+Software+Engineer+🚀" />
-</p>
-
-# Hi 👋, I'm Rahul Kumar  
-
-🚀 **Aspiring Software Developer | Java | DSA | CSE Student**  
-💡 *Learning • Building • Improving • Problem Solving*
-
----
-
-## 👨‍💻 About Me
-🎯 Passionate about **Software Development & DSA**  
-🎓 Computer Science Student | Exploring Backend & AI  
-🔍 Currently improving **Java + DSA + Python**
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/krrahul82" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-krrahul82-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:rahulkumar24391233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rahulkumar24391233-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/rkrahu18294">
-    <img src="https://img.shields.io/badge/GitHub-rkrahu18294-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkrahu18294&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrahu18294&layout=compact&theme=radical" width="48%" />
-</p>
-
----
+# 👋 Hi, I'm **Rahul Kumar**  
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+DSA+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+with+Code+%F0%9F%9A%80" />
 </p>
-
-# 👋 Hi, I'm **Rahul Kumar**
-
-🚀 **Aspiring Software Engineer | Problem Solver | Open Source Enthusiast**
 
 ---
 
@@ -78,30 +12,84 @@
 ---
 
 ## 🐍 Watch my contributions turn into a snake!
-![GitHub Snake](snake.svg)
+![GitHub Snake](snake_animated.svg)
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 C, Java, Python  
-- 🌐 HTML, CSS, JavaScript  
-- 🗄️ SQL, DBMS  
-- 🧠 Data Structures & Algorithms  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rkrahul8294&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-- ✈️ **Airline Reservation System (C + DSA)**
-- 📈 **LSTM Stock Predictor**
-- 🧭 **Shortest Path Visualizer (Dijkstra + BFS + DFS)**
+## 🚀 About Me
+- 🎓 Computer Science Student  
+- 💡 Passionate about **DSA, Web & Open Source**  
+- 🛠 Building real-world projects  
+- 📌 Always learning new technologies  
 
 ---
 
-## ⭐ Connect with me
-- GitHub: https://github.com/rkrahul8294  
-- LinkedIn: *(add your link here)*
+## 🛠 Tech Stack
+
+**Languages:**
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+**Web Technologies:**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-⭐ **Rahul Kumar | Future Software Engineer**
+## 📂 Featured Projects
 
+### ✈️ Airline Reservation System
+- Built using **C + Data Structures**
+- Used **BST, Linked List, Queue**
+- Seat booking & waitlist system  
+
+### 📈 Stock Price Predictor
+- Used **LSTM (Deep Learning)**
+- Predicts future stock trends  
+
+### 🧭 Shortest Path Visualizer
+- Implemented **Dijkstra, BFS, DFS**
+- Interactive visualization  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkrahul8294&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkrahul8294&theme=radical" />
+</p>
+
+---
+
+## 📬 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+⭐ **If you like my work, give a star to my repositories!**
