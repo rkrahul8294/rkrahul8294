@@ -71,6 +71,27 @@
 
 ## 🐍 Watch my contributions turn into a snake!
 <img src="snake.svg" width="100%" />
+import matplotlib.pyplot as plt
+
+# Example data (aap apne numbers yahan change kar sakte ho)
+days = list(range(10, 31)) + list(range(1, 10))
+contributions = [
+0,0,0,0,0,0,0,0,0,0,   # days 10-19
+0,2,1,2,3,15,4,1,3,0,   # days 20-29
+0,0,0,0,12,4,1,3,0      # days 1-9
+]
+
+plt.figure(figsize=(12,5))
+plt.style.use('dark_background')
+
+plt.plot(days, contributions, marker='o')
+
+plt.title("Rahul Kumar's Contribution Graph", color="cyan")
+plt.xlabel("Days")
+plt.ylabel("Contributions")
+
+plt.grid(True)
+plt.show()
 
 ⭐ **Rahul Kumar | Future Software Engineer**
 
