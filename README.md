@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Rahul Kumar**  
-<img width="1363" height="283" alt="image" src="https://github.com/user-attachments/assets/e67f99e8-79a1-4efa-aefe-99176ab43a94" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+DSA+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+with+Code+%F0%9F%9A%80" />
+<img width="1536" height="318" alt="desktop" src="https://github.com/user-attachments/assets/b5ff80c8-c2cd-4469-982a-c11a8553c6f2" />
+
 </p>
 
 
